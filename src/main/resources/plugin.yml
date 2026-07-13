@@ -1,0 +1,21 @@
+name: CityBuild
+version: 1.0.0
+main: de.citybuild.CityBuildPlugin
+description: Ein vollständiges Citybuild System für PaperMC
+authors:
+  - CityBuild Team
+api-version: 1.20
+
+commands:
+  city:
+    description: Hauptkommando für das CityBuild System
+    usage: /city <subcommand>
+  plot:
+    description: Grundstücksverwaltung
+    usage: /plot <subcommand>
+  zone:
+    description: Zonenverwaltung
+    usage: /zone <subcommand>
+  cityecon:
+    description: Wirtschaftssystem
+    usage: /cityecon <subcommand>

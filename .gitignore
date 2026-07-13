@@ -1,0 +1,15 @@
+target/
+*.jar
+*.class
+.idea/
+*.iml
+out/
+.DS_Store
+node_modules/
+*.log
+.vscode/
+data/
+ciybuild.db
+.classpath
+.project
+.settings/
